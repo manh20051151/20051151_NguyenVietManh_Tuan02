@@ -9,5 +9,8 @@
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
+<br/>
+<a href="uploadFiles.jsp">Bài 6</a>
+<a href="sendMail.jsp">Bài 8</a>
 </body>
 </html>
